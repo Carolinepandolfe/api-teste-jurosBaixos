@@ -11,14 +11,17 @@ module.exports = {
       name: {
         type: Sequelize.STRING
       },
-      email:{
+      email: {
         type: Sequelize.STRING
       },
-      password:{
+      password: {
         type: Sequelize.STRING
       },
-      cpf:{
-        type:Sequelize.STRING
+      cpf: {
+        type: Sequelize.STRING
+      },
+      category: {
+        type: Sequelize.INTEGER
       },
       createdAt: {
         allowNull: false,
