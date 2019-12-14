@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "pandolfe",
+    "password": "p@nd0lf3",
+    "database": "pandolfe_db",
+    "host": "pandolfe-db.mysql.uhserver.com",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "pandolfe",
+    "password": "p@nd0lf3",
+    "database": "pandolfe_db",
+    "host": "pandolfe-db.mysql.uhserver.com",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "pandolfe",
+    "password": "p@nd0lf3",
+    "database": "pandolfe_db",
+    "host": "pandolfe-db.mysql.uhserver.com",
+    "dialect": "mysql"
+  }
+}
