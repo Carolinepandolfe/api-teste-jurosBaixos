@@ -8,6 +8,11 @@ de registro e leitura dos mesmos, observando as seguintes regras:
 - Um usuário pode ler a produtos da categoria 1, mas não os da categoria 2
 - O endpoint de registro de produtos deve estar preparado para lidar e registrar uma entrada com o formato descrito abaixo.
 
+## API 
+```
+https://api-teste-juros-baixo.herokuapp.com/users
+```
+
 ## Pontapé inicial
 
 No caso de clone, basta clonar o repositório, entrar na pasta pelo terminal, e instalar todas as dependências que foram 
@@ -46,9 +51,6 @@ descrito abaixo:
    "category": 1
  }
 ```
-## API 
-```
-https://api-teste-juros-baixo.herokuapp.com/users
-```
+
 
 
