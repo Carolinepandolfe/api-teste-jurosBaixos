@@ -46,5 +46,9 @@ descrito abaixo:
    "category": 1
  }
 ```
+## API 
+```
+https://api-teste-juros-baixo.herokuapp.com/users
+```
 
 
