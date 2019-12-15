@@ -27,6 +27,25 @@ npm install
 npm run start-dev
 ```
 
+## Rotas 
+
+### Listar Usuários
+
+```
+https://api-teste-juros-baixo.herokuapp.com/users
+```
+
+### Listar Produtos Pela Categoria
+
+```
+https://api-teste-juros-baixo.herokuapp.com/products/1
+```
+### Listar Produtos Com Categoria Igual à do Usuário
+
+```
+https://api-teste-juros-baixo.herokuapp.com/products/user/1
+```
+
 ## Tecnologias 
 
 - [x] Node.js
