@@ -24,7 +24,7 @@ npm run start-dev
 
 ## Tecnologias 
 
-[x] Node.js 
-[x] MySQL 
-[x] ORM - Sequelize
-[ ] TypeScript
+Node.js # [checkbox:checked]
+MySQL # [checkbox:checked]
+ORM - Sequelize # [checkbox:checked]
+TypeScript # [checkbox:unchecked]
