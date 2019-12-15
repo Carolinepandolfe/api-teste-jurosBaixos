@@ -35,6 +35,16 @@ npm run start-dev
 - [x] Um usuário pode ler a sí próprio, e a outros usuários
 - [x] Um usuário pode ler a produtos da categoria 1, mas não os da categoria 2
 - [x] O endpoint de registro de produtos deve estar preparado para lidar e registrar uma entrada com o formato 
-descrito abaixo.
+descrito abaixo:
+```json
+ {
+   "id": "de380ab7-6c7d-4fb8-91af-a10fd8cd7ec3",
+   "name": "Maionese Hellmann's Balde 3 KG",
+   "bar_code": "7891150035959",
+   "productPicture": "https://sifu.unileversolutions.com/image/pt-BR/original/2/maionese-hellmann-s-balde-3-kg-50364576.png",
+   "inStock": 700,
+   "category": 1
+ }
+```
 
 
