@@ -71,5 +71,39 @@ descrito abaixo:
  }
 ```
 
+## Começando Com Sequelize 
 
+```
+npm install sequelize 
+```
+
+```
+npm install -g sequelize-auto
+```
+
+```
+npm install -D sequelize-cli
+```
+
+```
+npm install mysql2
+```
+
+### Criar Pasta Config
+
+```
+ npx sequelize init
+``` 
+
+### Criar Model
+
+```
+npx sequelize-cli model:generate --name User --attributes firstName:string,lastName:string,email:string
+```
+
+### Rodar Migrations
+
+```
+ npx sequelize-cli db:migrate
+```
 
