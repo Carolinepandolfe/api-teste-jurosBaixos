@@ -28,3 +28,13 @@ npm run start-dev
 - [x] MySQL
 - [x] ORM - Sequelize
 - [ ] TypeScript
+
+## Funções realizadas 
+- [x] Cada usuário deve possuir uma ID única
+- [x] Cada produto deve possuir uma ID única, além da ID fornecida pela entrada
+- [x] Um usuário pode ler a sí próprio, e a outros usuários
+- [x] Um usuário pode ler a produtos da categoria 1, mas não os da categoria 2
+- [x] O endpoint de registro de produtos deve estar preparado para lidar e registrar uma entrada com o formato 
+descrito abaixo.
+
+
