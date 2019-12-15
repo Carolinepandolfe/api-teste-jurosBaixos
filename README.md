@@ -13,6 +13,6 @@ de registro e leitura dos mesmos, observando as seguintes regras:
 No caso de clone, basta clonar o repositório, entrar na pasta pelo terminal, e instalar todas as dependências que foram 
 utilizadas no projeto, digitando :
 
-`` ``
+```
 npm install
-`` ``
+```
